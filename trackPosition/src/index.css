@@ -1,0 +1,11 @@
+@import "leaflet/dist/leaflet.css";
+
+.leaflet-container {
+  height: 98vh;
+  width: 100%;
+}
+
+.svg-icon {
+  width: 20px;  /* Ajusta el tamaño según tus necesidades */
+  height: 20px; /* Ajusta el tamaño según tus necesidades */
+}
